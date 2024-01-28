@@ -1,0 +1,21 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "npm run gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp-connect-php": "^1.0.3",
+    "prettier": "^3.2.4",
+    "prettier-plugin-astro": "^0.13.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
